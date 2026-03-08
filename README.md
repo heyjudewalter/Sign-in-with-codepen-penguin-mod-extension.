@@ -23,6 +23,13 @@ Is this malware: No put all of it through virustotal it is not malware i am 100%
 Why penguinmod: Cause you can do anything with this i guess its one of the easiest things i guess.
 If you have other questions will you answer them: No i will unfortunately not answer your other questions because (lets keep this a secret idk how to code).
 
+FUN FACT/S!
+
+This was orginally created on a chromebook through the linux enviroment.
+This was posted on github on the same chromebook.
+The penguinmod project was ALSO created on the same chromebook
+The reason why you have to install the project instead of going to a published project on the site is: I cant actually publish the project because i have to publish other projects and rank up THEN i can publish the project.
+
 
 
 
