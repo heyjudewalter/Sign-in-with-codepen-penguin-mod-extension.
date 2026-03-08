@@ -1,3 +1,15 @@
+IMPORTANT:
+You might have to enable insecure content in your browser. Or maybe other site permissions
+In chrome for example:
+1. Go to chrome settings
+2. Go to privacy and security
+3. Click site settings
+4. Find "Additional content settings"
+5. Find Insecure Content
+6. Find "Allowed to show Insecure Content"
+7. Add studio.penguinmod.com/editor.html
+8. Go back to penguinmod and refresh the page.
+
 How to use:
 
 1. Download server.py from this repository.
