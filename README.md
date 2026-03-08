@@ -11,3 +11,20 @@ How to use:
 9. Start the project by clicking the blue flag.
 10. You should see some text READ IT. Hit space on the project to hide the text, show the sign in with codepen authentication button, and copy this github repo to the clipboard.
 11. And ummmm do things.
+
+MORE THINGS READ PLS:
+You will have to install a python package, the package that need installing is:
+
+curl_cffi
+
+Questions you might have, ANSWERED!
+
+Is this malware: No put all of it through virustotal it is not malware i am 100% that it is not malware.
+Why penguinmod: Cause you can do anything with this i guess its one of the easiest things i guess.
+If you have other questions will you answer them: No i will unfortunately not answer your other questions because (lets keep this a secret idk how to code).
+
+
+
+
+
+
